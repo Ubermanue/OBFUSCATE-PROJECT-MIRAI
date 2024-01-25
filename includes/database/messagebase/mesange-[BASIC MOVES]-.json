@@ -1,0 +1,21 @@
+{
+    "User": {
+        "MessageID": "mid.$gABZU1wixmpWSEFzSm2L3xeKTQpEQ",
+        "SenderID": "100076517240279",
+        "Name": "Người dùng facebook",
+        "Vanity": "null",
+        "Profile URL": "https://www.facebook.com/profile.php?id=100076517240279",
+        "Gender": "male",
+        "image": "https://graph.facebook.com/100076517240279/picture?width=720&height=720&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662"
+    },
+    "Thread": {
+        "ThreadId": "6285732028193429",
+        "ThreadName": "BASIC MOVES"
+    },
+    "Bot": {
+        "BotId": "100087622320793",
+        "BotName": "null"
+    },
+    "EventBody": "ai",
+    "Time": "Saturday, November 18, 2023 5:02 AM"
+}

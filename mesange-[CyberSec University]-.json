@@ -1,0 +1,42 @@
+{
+    "User": {
+        "MessageID": "mid.$gABV_rOej8CGRbllJnGLPRQBIJ4T7",
+        "SenderID": "100037363620456",
+        "Name": "Người dùng facebook",
+        "Vanity": "bundas.andrian.0x1",
+        "Profile URL": "https://www.facebook.com/bundas.andrian.0x1",
+        "Gender": "male",
+        "image": "https://graph.facebook.com/100037363620456/picture?width=720&height=720&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662"
+    },
+    "Thread": {
+        "ThreadId": "6051355108306977",
+        "ThreadName": "CyberSec University"
+    },
+    "Bot": {
+        "BotId": "61552081365888",
+        "BotName": "null"
+    },
+    "EventBody": "yung counting ba sa join sa fca un nag babase",
+    "Time": "Tuesday, October 17, 2023 6:00 PM"
+}
+{
+    "User": {
+        "MessageID": "mid.$gABV_rOej8CGRbllZhGLPRQMQXRIe",
+        "SenderID": "100088806220727",
+        "Name": "Người dùng facebook",
+        "Vanity": "null",
+        "Profile URL": "https://www.facebook.com/profile.php?id=100088806220727",
+        "Gender": "male",
+        "image": "https://graph.facebook.com/100088806220727/picture?width=720&height=720&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662"
+    },
+    "Thread": {
+        "ThreadId": "6051355108306977",
+        "ThreadName": "CyberSec University"
+    },
+    "Bot": {
+        "BotId": "61552081365888",
+        "BotName": "null"
+    },
+    "EventBody": "/antigc on",
+    "Time": "Tuesday, October 17, 2023 6:00 PM"
+}
